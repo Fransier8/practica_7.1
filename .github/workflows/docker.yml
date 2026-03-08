@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | #
-            fransier8/practica_7.1:latest
-            ghcr.io/fransier8/practica_7.1:latest
+            fransier/practica_7.1:latest
+            ghcr.io/fransier/practica_7.1:latest
